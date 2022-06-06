@@ -1,0 +1,86 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "resources" : [
+    {
+      "filename" : "大一教室.arreferenceimage"
+    },
+    {
+      "filename" : "大三教室.arreferenceimage"
+    },
+    {
+      "filename" : "大四教室.arreferenceimage"
+    },
+    {
+      "filename" : "系圖書室.arreferenceimage"
+    },
+    {
+      "filename" : "空間資訊教室.arreferenceimage"
+    },
+    {
+      "filename" : "副館 大二教室.arreferenceimage"
+    },
+    {
+      "filename" : "副館 研究生教室.arreferenceimage"
+    },
+    {
+      "filename" : "會客室.arreferenceimage"
+    },
+    {
+      "filename" : "電腦教室.arreferenceimage"
+    },
+    {
+      "filename" : "綜合教室.arreferenceimage"
+    },
+    {
+      "filename" : "Chao-Hung Lin.arreferenceimage"
+    },
+    {
+      "filename" : "Chi-Kuei Wang.arreferenceimage"
+    },
+    {
+      "filename" : "Chih-Da Wu.arreferenceimage"
+    },
+    {
+      "filename" : "Chung-Yen Kuo.arreferenceimage"
+    },
+    {
+      "filename" : "Hone-Jay Chu.arreferenceimage"
+    },
+    {
+      "filename" : "Hong-Zeng Tseng.arreferenceimage"
+    },
+    {
+      "filename" : "Hsueh-Chan Lu.arreferenceimage"
+    },
+    {
+      "filename" : "Jaan-Rong Tsay.arreferenceimage"
+    },
+    {
+      "filename" : "Jiann-Yeou Rau.arreferenceimage"
+    },
+    {
+      "filename" : "Jung-Hong Hong.arreferenceimage"
+    },
+    {
+      "filename" : "Kai-Wei Chiang.arreferenceimage"
+    },
+    {
+      "filename" : "Kuo-En Ching.arreferenceimage"
+    },
+    {
+      "filename" : "Ming Yang.arreferenceimage"
+    },
+    {
+      "filename" : "Pei-Fen Kuo.arreferenceimage"
+    },
+    {
+      "filename" : "Rey-Jer You.arreferenceimage"
+    },
+    {
+      "filename" : "Yi-Hsing Tseng.arreferenceimage"
+    }
+  ]
+}
